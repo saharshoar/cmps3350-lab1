@@ -1,5 +1,6 @@
 // CMPS 3350 - lab 1
 // Prints each command-line argument passed into the program, one per line
+//Sahar Sharbaf Shoar
 #include <stdio.h>
 
 int main(int argc, char ** argv)
